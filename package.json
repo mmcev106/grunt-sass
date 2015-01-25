@@ -3,12 +3,7 @@
   "version": "0.17.0",
   "description": "Compile Sass to CSS using node-sass",
   "license": "MIT",
-  "repository": "sindresorhus/grunt-sass",
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "http://sindresorhus.com"
-  },
+  "repository": "justafish/grunt-sass",
   "engines": {
     "node": ">=0.10.0"
   },
