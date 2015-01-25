@@ -1,4 +1,4 @@
-# grunt-sass [![Build Status](https://travis-ci.org/sindresorhus/grunt-sass.svg?branch=master)](https://travis-ci.org/sindresorhus/grunt-sass)
+# grunt-sass [![Build Status](https://travis-ci.org/justafish/grunt-sass.svg?branch=master)](https://travis-ci.org/justafish/grunt-sass)
 
 [<img src="https://rawgit.com/sass/node-sass/master/media/logo.svg" width="200" align="right">](https://github.com/sass/node-sass)
 
